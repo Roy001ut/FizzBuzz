@@ -5,7 +5,7 @@ package lab1;
  */
 class FizzBuzz {
 
-    public static void main() {
+    public static void main(String[] args) {
         int i = 1;
         doFizzBuzz(i);
     }
